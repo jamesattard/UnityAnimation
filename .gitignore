@@ -1,0 +1,6 @@
+.vsconfig
+Logs/*
+Library/*
+Packages/*
+Temp/*
+UserSettings/*
